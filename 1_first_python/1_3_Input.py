@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#-*- coding:utf-8 -*-
 #python提供了input()可以让用户输入字符串，并存放到一个变量中
 name = input()
 print('my name is', name)
