@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#-*- coding:utf-8 -*-
+# -*- coding: utf-8 -*-
 #单个字符串输出
 print('hello, world')
 #也可以使用双引号

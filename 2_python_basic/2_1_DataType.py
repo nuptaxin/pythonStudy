@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#-*- coding:utf-8 -*-
+# -*- coding: utf-8 -*-
 #整数除法、地板除和取余
 print('整数除法：')
 print(10/3)
