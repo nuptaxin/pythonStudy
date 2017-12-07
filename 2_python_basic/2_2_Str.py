@@ -19,3 +19,8 @@ print('%02d-%d' % (7, 9))
 print('%.3f' % 3.4)
 #使用format格式化
 print('hello , {0}成绩提升了{1:.2f}'.format('信', 16.3))
+#replace(),本身为不可变值
+a='abc'
+b =a.replace('a','A')
+print(b)
+print(a)

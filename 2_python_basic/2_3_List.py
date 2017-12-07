@@ -17,3 +17,7 @@ print(classmates)
 classmates = [2, [True, None], 'lina']
 print(classmates[1][0])
 print(len([]))
+
+li=[2,1,6,5]
+li.sort()
+print(li)
