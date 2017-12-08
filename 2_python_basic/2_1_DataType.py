@@ -26,3 +26,9 @@ a='AAA'
 b=a
 a='BBBB'
 print(b)
+#数据类型转换
+a='967'
+print(int(a))
+print(float(a))
+print(bool(a))
+print(hex(13))
