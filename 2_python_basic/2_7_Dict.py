@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 #初始化dict
 d={'axin':1,'john':2,'lina':3}
+print(d)
 print(d['axin'])
 #新增或修改值
 d['dyson']=4
